@@ -11,3 +11,4 @@ CREATE TABLE layoffs_raw (
     country TEXT,
     funds_raised_millions TEXT
 );
+
